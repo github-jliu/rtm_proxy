@@ -1,0 +1,60 @@
+body {
+	font-family: arial;
+	background: #eee;
+	font-size: 0.8em;
+}
+
+h1 {
+	font-family: arial;
+	margin: 0;
+	font-weight: normal;
+	font-size: 1.9em;
+	background: #2E455E;
+	color: white;
+	padding: 3px 9px 2px;
+}
+a {
+	color: blue;
+	cursor: pointer;
+}
+ol {
+	margin: 0px 0;
+}
+
+.todo {
+	width: 45%;
+	float: left;
+	margin: 2%;
+}
+.story {
+	clear: both;
+	margin: 2%;
+}
+
+#justin_todo, #leanne_todo, #justin_life {
+	padding: 7px;
+}
+
+.pr_1 {
+	font-size: 1.7em;
+	color: #000;
+}
+.pr_2 {
+	font-size: 1.5em;
+	color: #222;
+}
+.pr_3 {
+	font-size: 1.3em;
+	color: #444;
+}
+.pr_none {
+	font-size: 1.3em;
+	color: #666;
+}
+.complete {
+	font-size: 1.3em;
+	color: #333;
+}
+.incomplete {
+	font-size: 1.3em;
+}
